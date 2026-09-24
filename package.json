@@ -1,0 +1,10 @@
+{
+  "name":"sissy-buzzer",
+  "version":"1.0.0",
+  "private":true,
+  "description":"Cute-themed authorized Buzzer command center.",
+  "main":"server.js",
+  "scripts":{"start":"node server.js"},
+  "engines":{"node":">=18"},
+  "dependencies":{"express":"^4.21.2","firebase-admin":"^13.5.0"}
+}
